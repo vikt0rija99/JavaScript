@@ -2,29 +2,6 @@
 Decription: Using prompt() display a dialog box that prompts the visitor for input. Will return null on 'Cancel' or the value provided on 'Ok'
 Action: Ask the user how much money he has, and depending on the value, suggest to him what he should do */
 
-//let userName = prompt("Hi whats your name :) ?");
-
-// if(userName != null){
-//     console.log(`Helloo ${userName}`);
-// };
-
-// //let userMoney = prompt("How much money you have?");
-// userName = '';
-
-// if(userMoney >= 30){
-//     console.log(`${userName} should go out`);
-// } else if (userMoney <=30){
-//     console.log(`${userName} should stay home`);
-// } else{
-//     console.log (`${userName} enter the sum`);
-// };
-
-/*HOMEWORK
-Write javascript code that will get an input from the user and calculate which Chinese Zodiac a given year is in
-
-Formula for Chinese Zodiac caluclation: (year - 4) % 12. Possible values:
-
-0 - Rat
 1 - Ox
 2 - Tiger
 3 - Rabbit
